@@ -1,5 +1,5 @@
 seafile
 #支持私库
-docker.seafile.top/seafileltd/seafile-pro-mc
+docker.seafile.top/seafileltd/seafile-mc
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64

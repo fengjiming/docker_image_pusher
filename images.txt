@@ -1,1 +1,2 @@
 seafileltd/seafile-pro-mc
+seafile/seafile-mc
